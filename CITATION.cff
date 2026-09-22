@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite the master's thesis and the associated
+  publications described in the repository README.
+title: Activity-Independent Cardiorespiratory Fitness Estimation from Multimodal Wearable Signals
+type: software
+authors:
+  - family-names: Saldaña-Aristizábal
+    given-names: Laura
+    affiliation: University of Puerto Rico at Mayagüez
+  - family-names: Rivas-Caicedo
+    given-names: Jhonathan L.
+    affiliation: University of Puerto Rico at Mayagüez
+  - family-names: Niño-Tejada
+    given-names: Kevin
+    affiliation: University of Puerto Rico at Mayagüez
+  - family-names: Patarroyo-Montenegro
+    given-names: Juan F.
+    affiliation: University of Puerto Rico at Mayagüez
+keywords:
+  - cardiorespiratory fitness
+  - VO2max
+  - wearable sensors
+  - machine learning
+  - metabolic equivalents
+  - multimodal sensing

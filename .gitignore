@@ -1,0 +1,53 @@
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Test, notebook, and tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Streamlit and environment secrets
+.streamlit/secrets.toml
+.env
+.env.*
+*.key
+*.pem
+
+# Private participant and study data
+data/
+data-private/
+private_data/
+participant_data/
+raw_data/
+SubjectsInfo.xlsx
+consent_forms/
+completed_parq/
+
+# Generated experiment artifacts
+outputs/
+**/fold_models/
+*.log
+
+# Temporary files
+tmp/
+temp/
+cache/
+~$*
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
